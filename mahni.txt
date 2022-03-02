@@ -2,4 +2,3 @@ Elave elediyim duzelisler.
 burada deyisliklik oldu
 Second commit.
 push revert test.
-geri qaytaracam test ucundu.
