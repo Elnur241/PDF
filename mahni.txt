@@ -4,4 +4,3 @@ Second commit.
 push revert test.
 geri qaytaracam test ucundu.
 this is for testing..
-maycar
